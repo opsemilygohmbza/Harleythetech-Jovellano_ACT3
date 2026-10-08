@@ -1,0 +1,4 @@
+[
+null,
+{"id":1,"battlerName":"Actor2_6","characterIndex":5,"characterName":"Actor2","classId":1,"equips":[1,1,2,3,0],"faceIndex":5,"faceName":"Actor2","traits":[{"code":43,"dataId":1,"value":1},{"code":43,"dataId":2,"value":1},{"code":43,"dataId":5,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Harold","nickname":"","note":"","profile":""}
+]
